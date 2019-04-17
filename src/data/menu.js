@@ -10,9 +10,5 @@ export default [
        {
               title: 'Contact Us',
               url: '/contact'
-       },
-       {
-              title: 'Library',
-              url: '/library'
        }
 ];
